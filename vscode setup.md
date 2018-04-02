@@ -1,4 +1,4 @@
-# VSCode setup used in the course
+# VSCode setup i use.
 
 ### Theme
 
