@@ -8,14 +8,6 @@ different webs than can help on your daily work .
 * [Codepen ](https://codepen.io/) - Codepen has become an essential tool for me to quickly test out some ideas or do some tests. 
 
 
-## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
-
-* [Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/) Great overview of the web design process: from project brief to launching the final version.
-* [HTML Validator by W3C](https://validator.w3.org/) -Check if your HTML markup is valid and contains no errors. Official W3C tool.
-* [CSS Validator by W3C ](https://jigsaw.w3.org/css-validator/) - Check if your CSS code is valid and contains no errors. Official W3C tool. 
-
-
-
 
 ## CSS RESOURCES
 
@@ -34,3 +26,16 @@ different webs than can help on your daily work .
 * [HTML Validator by W3C](https://validator.w3.org/) Check if your HTML markup is valid and contains no errors. Official W3C tool.
 * [CSS Validator by W3C](https://jigsaw.w3.org/css-validator/) Check if your CSS code is valid and contains no errors. Official W3C tool.
 * [Optimizilla](http://optimizilla.com/) Compress up to 20 JPEG and PNG images while keeping a good level of quality.
+
+
+
+
+## POPULAR BLOGS & COMMUNITIES
+
+* [Stack Overflow](https://stackoverflow.com/) The biggest programmer community. Ask and find answers to HTML, CSS and JS questions.
+* [Smashing Magazine](https://stackoverflow.com/) A very popular web design and development blog, writing about all things coding and designing.
+* [Sitepoint](http://www.sitepoint.com/) A hub for web developers to share their passion for building incredible Internet things.
+* [Front End Front](https://frontendfront.com/) A place where front-end developers can ask questions, share links, and show their work.
+* [Hey Designer](https://heydesigner.com/) Curated articles for designers and front-end developers.
+* [Designer News](https://www.designernews.co/) A community of people in design and tech, to discuss and share interesting things in the industry.
+* [Web Designer Depot](https://www.webdesignerdepot.com/) The very best in web design news, views, techniques, and resources.
