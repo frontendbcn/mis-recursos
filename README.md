@@ -19,6 +19,13 @@ different webs than can help on your daily work .
 
 
 
+## JAVASCRIPT RESOURCES
+
+* [JavaScript Reference by MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) Another reference by MDN, this one is for JavaScript. This is pretty advanced stuff.
+* [DOM Manipulation Reference](http://youmightnotneedjquery.com/) Called "You Might Not Need jQuery", but I use this as a complete DOM manipulation reference.
+* [Principles of Writing Good JavaScript](https://github.com/rwaldron/idiomatic.js) While I don't follow this 100%, it's good to have a style guide to write better code.
+* [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) For more advanced developers: learn all common JavaScript design patterns. Perfect reference.
+* [ES6 Browser Compatibility Table](https://kangax.github.io/compat-table/es6/) Check out all the new ES2015/ES6 features supported by the most popular browsers.
 
 ## PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT
 
