@@ -35,6 +35,16 @@ different webs than can help on your daily work .
 * [Optimizilla](http://optimizilla.com/) Compress up to 20 JPEG and PNG images while keeping a good level of quality.
 
 
+## DESIGN INSPIRATION
+
+* [Dribbble](https://dribbble.com/) The ultimate design inspiration resource, not just for web design. The show and tell for designers.
+* [Land Book](https://land-book.com/) Product landing page gallery. My #1 inspiration resource when I build a landing page.
+* [One Page Love](https://onepagelove.com/) The ultimate showcase of delicious One Page websites.
+* [Site Inspire](https://www.siteinspire.com/) A showcase of the finest web and interactive design. Currently over 4900 websites.
+* [Call To idea](https://www.calltoidea.com/) Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
+* [Media Queries](https://mediaqueri.es/) A collection of responsively designed websites for inspiration.
+
+
 
 
 ## POPULAR BLOGS & COMMUNITIES
